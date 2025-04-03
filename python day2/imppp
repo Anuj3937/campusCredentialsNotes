@@ -1,0 +1,7 @@
+array homo ()  size fixed 
+list  hetro [] dynamic size mutable duplicate data allowed 
+(arraylist) by nature growable
+
+using list datatype we can represent stack and queue
+
+tuple()mutable

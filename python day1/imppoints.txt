@@ -1,0 +1,6 @@
+applications of python:
+iot
+desktop software
+ai ml
+game, web development
+database
